@@ -28,6 +28,8 @@ public class StatiandNonstatic {
 		StatiandNonstatic sn=new StatiandNonstatic();
 		System.out.println(sn.i);
 		sn.meth1();
+		
+		System.out.println("changes");
 
 	}
 
