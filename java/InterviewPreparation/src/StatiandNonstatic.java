@@ -1,6 +1,11 @@
 
 public class StatiandNonstatic {
 	
+	public StatiandNonstatic() {
+		// TODO Auto-generated constructor stub
+		System.out.println("Default constructor");
+	}
+	
 	int i=10;
 	static int j=20;
 	
